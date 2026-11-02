@@ -162,6 +162,31 @@ Popular Resources:
 - MISP.
 - AlienVault OTX.
 
+### 1\. True Positive Indicators
+
+* Malicious IP/Domain: Connection to a known malicious IP or domain.
+
+* Unusual Activity Time: Accessing sensitive data at unusual hours (e.g., 3 AM).
+
+* Privilege Escalation: Unauthorized attempts to gain higher privileges.
+
+* Data Exfiltration: Large amounts of data uploaded to external storage.
+
+* Failed Logins Followed by Success: Multiple failed login attempts followed by successful login.
+
+### 2\. Common False Positives
+
+* Automated Scans: Legitimate system scans triggering port scan alerts.
+
+* Admin Activity: Normal admin actions flagged as suspicious.
+
+* Poor SIEM Rules: Low detection thresholds generating unnecessary alerts.
+
+* Benign Software: Legitimate software flagged by EDR.
+
+* Scheduled Tasks: Normal scheduled tasks appearing as unusual processes.
+
+
 3. SOC Team Structure and Responsibilities
 
 A SOC team consists of different professionals who work together to protect an organization's digital environment.
