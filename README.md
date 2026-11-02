@@ -13,6 +13,12 @@ A Security Operations Center (SOC) is a centralized team responsible for monitor
 
 Its main objective is to protect an organization's systems, networks, endpoints, applications, and sensitive information.
 
+<img width="451" height="245" alt="image" src="https://github.com/user-attachments/assets/d485bc01-564c-48e0-88af-ba51f57133c2" />
+
+<img width="586" height="176" alt="Screenshot 2026-11-02 145402" src="https://github.com/user-attachments/assets/178b7094-d0c4-40b7-81c2-7d99d352c0cb" />
+
+<img width="438" height="343" alt="WhatsApp Image 2026-11-02 at 2 52 54 PM" src="https://github.com/user-attachments/assets/1b3af451-5708-43be-afb1-2b4ac9aebf4e" />
+
 Main Responsibilities:
 
 - Security monitoring.
@@ -210,6 +216,8 @@ SOC L1 Analyst Responsibilities:
 - Identify suspicious activities.
 - Document findings.
 - Escalate potential incidents to L2.
+
+<img width="813" height="232" alt="image" src="https://github.com/user-attachments/assets/8ab8fde4-2d5d-46d6-8d81-67f7a1d5265b" />
 
 Critical Mistakes to Avoid as a SOC L1 Analyst
 
